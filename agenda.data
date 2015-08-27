@@ -1,0 +1,5 @@
+{collection:"User",total:3}
+{name:"YUI",password:"602DhDrsxuZkn",email:"123@E.COM",phone:"123456"}
+{name:"AZU",password:"AGOBDI",email:"123@E.COM",phone:"123456"}
+{name:"123",password:"67890",email:"123@123.com",phone:"123"}
+{collection:"Meeting",total:0}
